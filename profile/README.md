@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../logo/logo.svg" width="50%" height="50%" alt="LOGO SVG" />
+<img src="../logo/logo.svg" width="15%" height="15%" alt="LOGO SVG" />
 
 <h1>SerenityTech</h1>
 
