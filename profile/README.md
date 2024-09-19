@@ -4,7 +4,6 @@
 
 <h1>SerenityTech</h1>
 
----
-
 <img src="https://counter.seku.su/cmoe?name=SerenityTech" alt="SerenityTech" />
+
 </div>
